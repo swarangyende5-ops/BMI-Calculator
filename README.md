@@ -126,11 +126,5 @@ BMI = Weight (kg) / (Height (m))²
 ---
 
 ## 👨‍💻 Author
+ **Swarang Yende**
 
-Developed as a beginner-friendly **Streamlit project** for learning and practice.
-
----
-
-## 📜 License
-
-This project is free to use for educational purposes.
